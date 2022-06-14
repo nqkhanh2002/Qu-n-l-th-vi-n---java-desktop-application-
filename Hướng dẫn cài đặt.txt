@@ -1,0 +1,2 @@
+B1: Import file sql vào mysql
+B2 :Build trên Netbeans như bình thường
